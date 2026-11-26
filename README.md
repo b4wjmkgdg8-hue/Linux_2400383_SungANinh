@@ -1,3 +1,4 @@
+ HEAD
 # BAI THUC HANH LINUX
 
 ## 1. Thong tin sinh vien
@@ -56,4 +57,7 @@ Chay chuong trinh sao luu:
 Cac chuong trinh duoc thuc hien tren Ubuntu Linux (WSL), su dung Bash Shell Script.
 
 Da kiem tra va hoan thien huong dan su dung cac chuong trinh.
+
+# linux-bai-tap
+>>>>>>> 1a9dbedf443323a0a836a836ff775777a667c0a4
 

@@ -55,3 +55,5 @@ Chay chuong trinh sao luu:
 ## 6. Ket qua
 Cac chuong trinh duoc thuc hien tren Ubuntu Linux (WSL), su dung Bash Shell Script.
 
+Da kiem tra va hoan thien huong dan su dung cac chuong trinh.
+

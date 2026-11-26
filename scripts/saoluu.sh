@@ -22,7 +22,8 @@ if [ -d "$DATA" ]; then
     tar -czf "$BACKUP/$TENFILE" -C "$THUMUC" data
 
     # Kiem tra ket qua sao luu
-    if [ $? -eq 0 ] && [ -f "$BACKUP/$TENFILE" ]; then
+    if [ -s "$BACKUP/$TENFILE" ] && tar -tzf "$BACKUP/$TENFILE" >/dev/null 2>&1; then
+
         TRANGTHAI="THANH CONG"
         echo "Sao luu thanh cong!"
         echo "File: $TENFILE"

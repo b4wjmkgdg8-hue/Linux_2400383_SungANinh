@@ -1,4 +1,5 @@
- HEAD
+ 
+
 # BAI THUC HANH LINUX
 
 ## 1. Thong tin sinh vien
